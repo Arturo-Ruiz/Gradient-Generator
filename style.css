@@ -1,0 +1,38 @@
+body {
+    color:#000;
+    font-family: 'Gugi', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 50%;
+    background: linear-gradient(to right, #00ff2a, #00fbff,#052fff);
+    background-size: cover;
+    font-weight: 400;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+    color:#fff;
+}
+
+.middle input {
+    margin-right: 20px;
+    margin-top:200px;
+    border-radius: 6px 6px 6px 6px;
+    padding:5px 5px;
+    text-decoration: none;
+    width:30px;
+    height: 30px;
+    border:2px solid #000;
+    box-shadow: 4px 4px 4px  #000;
+    cursor: pointer;
+}
